@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	border: none;
+	outline: none;
+  
+}
+#mainTittle{
+    font-size: 30px;
+    color: Black;
+    padding: 10px;
+    margin: 10px;
+}
+
+#navOptions{
+font-size: 20px;
+color: black;
+margin-left: 60%;
+
+}
+#navDisplay{
+    padding: 15px;
+    color: black;
+    margin-bottom: 50px;
+}
+
+/* Formulario de contacto y reclamos */
+
+.contenedor-formulario {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 40%;
+}
+
+#hablemos {
+    text-align: center;
+}
+
+.formulario {
+    background-color: #FFBBBB;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+
+/* Fin del formulario */
+
+
